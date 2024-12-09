@@ -1,0 +1,17 @@
+#assign_header {
+	background-color: darkblue;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-bottom: 18px;
+}
+
+.caption {
+	font-size: 14px;
+	color: black;
+	margin-top: 8px;
+}
+
+#assign_header h4 {
+	margin-bottom: 0px;
+}
